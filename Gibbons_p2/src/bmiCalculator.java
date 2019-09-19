@@ -37,5 +37,6 @@ public class bmiCalculator {
 		}
 		
 		System.out.println("\n\nBMI Categories:\nUnderweight: < 18.5\nHealthy Weight: 18.5 - 24.9\nOverweight: 25 - 29.5\nObese: > 30");
+		scan.close();
 	}
 }
